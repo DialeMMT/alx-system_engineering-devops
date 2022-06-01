@@ -1,4 +1,2 @@
-#!/bin/bash
-#This is my first script
+Hello, World
 
-echo "Hello, World"
